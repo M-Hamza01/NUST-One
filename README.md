@@ -1,1 +1,2 @@
-# SE_16B-apk
+# NUST One App
+One app for every Nustian.
